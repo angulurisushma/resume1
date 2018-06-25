@@ -30,6 +30,16 @@ img{
   margin-right:auto;
   border-radius: 30%;
 }
+table{
+  width:90%;
+  box-shadow:3px 3px 3px black;
+}
+td{
+  padding:1%;
+}
+tr:nth-child(even){
+  background-color:orange;
+}
 a{
   font-size: 30px;
 }

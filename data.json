@@ -4,6 +4,9 @@
 "email":"sushma@gmail.com",
 "mobile":"9856475789"
 },
+"career":{
+  "info":"This Career Objective successfully (and quickly) makes the argument that this candidate would succeed in a managerial role "
+},
 "education":[
   {
     "degree":"B-tech",
@@ -20,5 +23,32 @@
     "institute":"STBEM",
     "data":["2012-14","78%"]
   }
-]
+],
+"achievements":[
+  {
+    "name":"certified in <b> c </b> by <b> IIT Bombay</b>"
+  },
+  {
+    "name":"certified in <strong>c++</strong> by <b>IIT Bombay</b>"
+  }
+],
+"TechnicalSkills":[
+  {
+    "name":"programming languague" ,
+    "data": [" c","c++","java"]
+  },
+  {
+    "name":"Databases",
+    "data": [" my sql","oracle"]
+  },
+  {
+    "name":"Webtechnologies",
+    "data": [" Html","Css","javascript"]
+  },
+  {
+    "name":"server-side scripting",
+    "data": [" php"]
+  }
+  ]
+
 }
